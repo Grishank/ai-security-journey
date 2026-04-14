@@ -1,7 +1,7 @@
 # 🤖 AI Security Journey — TryHackMe
 
 <p align="center">
-  <img src="assets/images/ai-security-banner.png" alt="AI Security Banner" width="800"/>
+  <img src="assets/THM-banner.png" alt="AI Security Banner" width="800"/>
 </p>
 
 ---
